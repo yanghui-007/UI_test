@@ -1,0 +1,1 @@
+[2020-02-26 22:32:24] INFO [<module>: log.py, 10] hello
