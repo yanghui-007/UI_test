@@ -1,0 +1,12 @@
+test003_countryproductpage (test.Test_countryproductlibrary) ... ok
+test004_getUniversalTypeAllCountry (test.Test_countryproductlibrary) ... ok
+test005_detailPage (test.Test_countryproductlibrary) ... ok
+test006_countryProductdetail (test.Test_countryproductlibrary) ... ok
+test007_gameservCouponpage (test.Test_countryproductlibrary) ... ok
+test008_OrderInfopage (test.Test_countryproductlibrary) ... ok
+test009_rankpage (test.Test_countryproductlibrary) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 4.263s
+
+OK
