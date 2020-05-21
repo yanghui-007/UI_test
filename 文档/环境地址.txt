@@ -1,0 +1,78 @@
+【集成环境】：
+——————————————————————————————————————————————
+收卡端：
+http://afrbtc.c792da175267647238186842c09054706.cn-shanghai.alicontainer.com/#/
+
+卖卡端（也叫shop端）：
+http://shop.c792da175267647238186842c09054706.cn-shanghai.alicontainer.com/#/  ， 账号【后台shop端】创建
+
+测评网站前台：
+http://seagrass-evaluation.c792da175267647238186842c09054706.cn-shanghai.alicontainer.com/#/
+
+游戏服务平台前台（web端）：
+http://gameserv.c792da175267647238186842c09054706.cn-shanghai.alicontainer.com/
+
+
+集成环境的后台（所有集成环境）：
+http://upms.c792da175267647238186842c09054706.cn-shanghai.alicontainer.com/#/wel      ， 账号在【权限管理系统】创建
+
+
+
+【测试环境】
+——————————————————————————————————————————————
+测评网站前台：http://seagrass-evaluation.dev.internal.juwan.group/#/
+测试后台（所有项目）：http://upms.dev.internal.juwan.group/#/login， 账号在【权限管理系统】创建
+
+
+
+
+【常用网站】
+——————————————————————————————————————————————
+
+YAp(接口管理平台）：创建账号（杨成添加进去）
+http://47.111.152.185/group/116
+
+
+禅道：（晓东开账号）
+http://47.103.75.232:8081/zentao/user-deny-product-create.html
+
+腾讯企业邮箱：（晓东开账号）
+https://exmail.qq.com/cgi-bin/loginpage?t=dm_loginpage&dmtype=bizmail&s=session_timeout
+
+蓝湖（原型图）：（生涛开账号）
+https://lanhuapp.com/web/#/item?fid=02b4340a-7e90-44ac-96de-941b057f5fb0&commonly=all
+
+
+Quick BI（财务系统）: （找晓晨）
+地址：http://das.base.shuju.aliyun.com/console.htm?redirectUrl=https%3A%2F%2Fdas.base.shuju.aliyun.com%2Fportal.htm%3FproductId%3D02a15684-f193-4578-93b1-6a7e856c178c%26workspaceId%3D1349da7d-d5e9-4327-954b-13eab3037e8b%26menuId%3D02345dfa-5347-4c43-87fc-0aeb722b91c4
+账号：yuxiaochen@juwan.onaliyun.com
+密码：happy2010
+
+
+
+
+
+
+【mysql】数据库连接
+账号：root
+密码: Zyq1234560   （如果错误，把首字母Z改成小写z）
+——————————————————————————————————————————————
+集成环境mysql数据库连接：
+集成后台： rm-uf6f3a61z8w8j6hi3bo.mysql.rds.aliyuncs.com
+测评_admin：rm-uf6y6j32vhnam9v12zo.mysql.rds.aliyuncs.com
+测评_pay:  rm-uf64u04yz398g28jz6o.mysql.rds.aliyuncs.com
+测评_班次:rm-uf6ax7zl962l8ywr19o.mysql.rds.aliyuncs.com
+测评_用户:rm-uf6552wex5h5ci3r08o.mysql.rds.aliyuncs.com
+测评_订单：rm-uf6847r2pqyo05p8glo.mysql.rds.aliyuncs.com
+
+
+
+
+测试环境mysql数据库连接：
+测评_订单：dev-seagrass-evaluation-order.mysql.svc.internal.juwan.group
+测评_班次: dev-seagrass-evaluation-shift.mysql.svc.internal.juwan.group
+测评_用户：dev-seagrass-evaluation-user.mysql.svc.internal.juwan.group
+测评_钱包：dev-seagrass-evaluation-pay.mysql.svc.internal.juwan.group
+
+
+
